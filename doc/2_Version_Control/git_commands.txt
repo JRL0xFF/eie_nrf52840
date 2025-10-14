@@ -1,0 +1,29 @@
+git commit (-m "Name of commit")
+git branch newImage
+git checkout <name>
+git checkout -b <newBranch> (combines both new and checkout)
+git merge <branch>
+git log
+
+git clone
+git fetch
+git pull (fetch and merge)
+git rebase <branch>
+git pull --rebase
+
+git add (adds a new file to be tracked)
+git status
+git log
+git push -u origin lesson2 (pushes to Github for first time)
+
+If terminal shows ':' prompt type 'q' to get back to normal prompt
+
+Daily start-up instructions
+1. Open VSCode
+2. Powershell activate virtual environment
+3. Hardware confirm in Device Manager
+4. Confirm debug / build / flash
+5. Ensure commits are correct and no outstanding pull requests.
+
+
+Embedded life and what's behind
