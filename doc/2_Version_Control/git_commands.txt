@@ -1,0 +1,23 @@
+git commit
+git branch newImage
+git checkout <name>
+git checkout -b <newBranch> (combines both new and checkout)
+git merge <branch>
+git log
+
+git clone
+git fetch
+git pull (fetch and merge)
+git rebase <branch>
+git pull --rebase
+
+
+Daily start-up instructions
+1. Open VSCode
+2. Powershell activate virtual environment
+3. Hardware confirm in Device Manager
+4. Confirm debug / build / flash
+5. Ensure commits are correct and no outstanding pull requests.
+
+
+Embedded life and what's behind
