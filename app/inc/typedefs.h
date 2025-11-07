@@ -59,7 +59,7 @@ typedef void(*fnCode_type)(void);      /*!< @brief EiE standard variable type na
 typedef void(*fnCode_u16_type)(u16 x); /*!< @brief EiE standard variable type name for function pointer with one u16 argument */
 
 #ifndef __cplusplus
-typedef enum {FALSE = 0, TRUE = !FALSE} bool;  /*!< @brief EiE standard variable type name for boolean */
+//typedef enum {FALSE = 0, TRUE = !FALSE} bool;  /*!< @brief EiE standard variable type name for boolean */
 #endif
 
 /*! 
