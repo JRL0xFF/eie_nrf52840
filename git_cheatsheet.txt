@@ -1,3 +1,5 @@
+Passphrase: should be blank now!
+
 git commit
 git branch
 git checkout
