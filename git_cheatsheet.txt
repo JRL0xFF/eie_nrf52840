@@ -6,3 +6,6 @@ git push
 git merge
 git rebase
 git fetch
+git add <file>
+git log (press 'q' to exit file)
+git status
